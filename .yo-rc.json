@@ -11,7 +11,7 @@
       "namespace": "fountain-react:app",
       "_": [],
       "sample": "todoMVC",
-      "router": "none"
+      "router": "router"
     }
   }
 }
